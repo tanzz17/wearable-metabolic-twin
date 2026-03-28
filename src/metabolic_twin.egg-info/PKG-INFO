@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: metabolic-twin
+Version: 0.1.0
+Summary: Wearable Metabolic Twin baseline pipeline
+Requires-Python: >=3.9

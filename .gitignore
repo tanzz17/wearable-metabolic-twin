@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Data
+/data/raw/
+/data/processed/
+
+# Models & outputs
+/models/
+/outputs/
+
+# OS
+.DS_Store
+Thumbs.db
+# Large data / artifacts
+/data/
+/Optional/
+/Protocol/
+/models/
+/outputs/
+/.venv/
+/.vendor/
+/.vendor/
+/.venv/
+/Optional/
+/Protocol/
+/data/
+/models/
+/outputs/
+/.vendor/
+/.venv/
+/Optional/
+/Protocol/
+/data/
+/models/
+/outputs/
